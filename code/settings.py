@@ -1,0 +1,9 @@
+MAX_LEN = 256
+PATH = '../models/roberta/'
+SEED = 57
+EPOCHS = 3
+LR = 3e-5
+BATCH_SIZE = 16
+DEVICE_SIZE = 1
+SPLITS = 5
+MAX_CHAR_LEN = 160
