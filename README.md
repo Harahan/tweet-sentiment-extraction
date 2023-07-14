@@ -1,3 +1,3 @@
 # Tweet-sentiment-extraction
-tips: install Git LFS before cloning the repo, especially you want to use the pretrained model.
+There is no enough bandwidth and space for me to upload and store LLMs. However, the real reason is that enlarging the repo's space is too expensive.
 
